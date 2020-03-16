@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Crawl-delay: 1
+Host: http://aidan-express.kg/
+Sitemap: http://aidan-express.kg/sitemap.xml
